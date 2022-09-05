@@ -1,0 +1,99 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "ridil Blog"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+#pygmentsStyle = "dracula"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+#pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+
+[Params]
+#  homeTitle = "ridil Blog" # Set a different text for the header on the home page
+  subtitle = "＼(＾O＾)／"
+  mainSections = ["post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/avatar-icon.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = false
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 5
+        ordered = false
+
+
+[Author]
+  name = "rida idil"
+  website = "."
+  email = "rida.idil@protonmail.com"
+  github = "ridilx"
+  twitter = "ridaidil"
+  linkedin = "rida-idil-b045a1117"
+  youtube = "channel/UCcVhtx9_AIN7ElqNAMf474A"
+
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    weight = 2
+
+[[menu.main]]
+    parent = "projects"
+    name = "Vulnified - Vulnerability Engine & Cyber Intelligence"
+    url = "https://vulnified.com/"
+    weight = 1
+
+[[menu.main]]
+    parent = "projects"
+    name = "Upcoming..."
+    url = "#"
+    weight = 2
+
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 4
