@@ -16,15 +16,15 @@ The creator of [One Platform for your Cybersecurity Journey · Vulnified](https:
 
 I was born to be a free soul.
 
-Im raised to be the best version of me.
+Im raised to be the best version of myself.
 
-During my studies, i've acquired Some knowledge like the soft/hard skills.  
+I’ve acquired SOME knowledge {soft and hard} skills during my studies.
 
-I was told that throughout my life I would make many mistakes. But my experiences helped me to enhance my process of problem solving. Im always trying to find a suitable solution for overcoming issues/topics in order to accomplish my goals. 
+I was told that throughout my life I would make many mistakes. But my experiences helped me enhance my problem solving process. Im always trying to find a suitable solution for overcoming issues/topics in order to accomplish my goals.
 
-In the fullness of time, im seeking to find my way judiciously through this labyrinth. 
+In the fullness of time, im just a collection of atoms trying to find my way judiciously through this life.
 
-Best regards, and enjoy your stay. If you want to reach me at [rida.idil@protonmail.com](mailto:rida.idil@protonmail.com) or on my [Twitter Account](https://twitter.com/ridaidil), my pleasure to answer your questions.
+Best regards, and enjoy your stay. If you want to reach me, via [rida.idil@protonmail.com](mailto:rida.idil@protonmail.com) or via my [Twitter Account](https://twitter.com/ridaidil), with pleasure to answer your questions.
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c78942c8-5109-42c7-8435-d50cb65f09c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
